@@ -16,6 +16,7 @@ setup(
     author='Manuel Garrido',
     version=version,
     description="Snowflake Connector for python LITE!",
+    long_description="Snowflake Connector for python LITE!",
     license='Apache License, Version 2.0',
     use_2to3=False,
     namespace_packages=['snowflake'],
